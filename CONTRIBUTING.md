@@ -19,5 +19,3 @@ If you are creating a branch from `master` to add new theme to the GUI you shoul
   * If I found a duplicate, I will close the issue and comment you the link of an older issue.
   * If the older issue had been closed, but then you found the same issue hasn't fixed yet, please contact me via [email](mailto:dionrickysptr@gmail.com).
   * Note that not all of the issue you send are accepted, especially for some `enhancement` and `styling` issue.
-
-## Creating Pull Request
